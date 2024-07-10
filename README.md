@@ -29,6 +29,8 @@ In summary, the terminology for Indigenous peoples in the United States and Cana
 [Canada-USA](https://github.com/sourceduty/Canada-USA)
 <br>
 [The Corporation of Canada](https://github.com/sourceduty/The_Corporation_of_Canada)
+<br>
+[Canadian Métis](https://github.com/sourceduty/Canadian_Metis)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
