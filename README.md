@@ -24,6 +24,10 @@ In both the United States and Canada, there is a growing preference for the use 
 In summary, the terminology for Indigenous peoples in the United States and Canada includes "Native American," "American Indian," "First Nations," "Inuit," "Aboriginal," "Indigenous," "Alaska Native," and specific tribal names like Navajo, Cherokee, and Ojibwe. These terms reflect a movement towards greater accuracy, respect, and recognition of the rich diversity and unique identities of these groups.
 
 #
+
+![Indian Umbrella](https://github.com/user-attachments/assets/148da83e-cd8b-43da-aef9-5666e8eef6d5)
+
+#
 ### Related Links
 
 [Canada-USA](https://github.com/sourceduty/Canada-USA)
