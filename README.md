@@ -2,6 +2,8 @@
 
 > The original inhabitants of the United States and Canada.
 
+#
+
 The confusion between India's Indians and North American Indians stems from a historical misnomer dating back to the time of Christopher Columbus. When Columbus arrived in the Americas in 1492, he believed he had reached the Indies, a term used for Asia, particularly India. As a result, he referred to the native inhabitants he encountered as "Indians." This term persisted and became a common, albeit inaccurate, label for the Indigenous peoples of North America. Over time, the term "Indian" has been used interchangeably to describe the native populations of the Americas and the people of India, leading to ongoing confusion.
 
 To address this confusion, specific terminology has evolved. In North America, the use of "Native American" or "Indigenous" has become more common to clearly distinguish the original inhabitants of the continent from the people of India. Similarly, "American Indian" is still used but often in more specific contexts, such as legal or historical references, with a growing preference for the precise names of individual tribes or nations (e.g., Navajo, Cherokee, Ojibwe). In contrast, "Indian" without additional context typically refers to someone from the country of India. These distinctions help clarify the identity and heritage of the diverse groups involved and reduce the ambiguity caused by the historical use of the term "Indian."
