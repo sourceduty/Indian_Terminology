@@ -32,7 +32,7 @@ In summary, the terminology for Indigenous peoples in the United States and Cana
 #
 ### Related Links
 
-[Canada-USA](https://github.com/sourceduty/Canada-USA)
+[International Business](https://github.com/sourceduty/International_Business)
 <br>
 [The Corporation of Canada](https://github.com/sourceduty/The_Corporation_of_Canada)
 <br>
